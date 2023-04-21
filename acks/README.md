@@ -1,0 +1,3 @@
+Kussakin alihakemistossa on alkeellinen luotettavan
+tiedonsiirtoprotokollan toteutus. Bittivirheiden tarkastamiseksi
+käytetään luotettavuuskerroksen tarjoamaa CRC 8 -tarkastusta.

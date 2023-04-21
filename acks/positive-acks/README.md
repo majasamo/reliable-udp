@@ -1,0 +1,1 @@
+Käytössä vain positiiviset kuittaukset. Toteutus vastaa Kurose–Rossin protokollaa rdt2.2.
